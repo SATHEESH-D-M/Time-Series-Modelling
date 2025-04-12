@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/938730222592725752
+creation_time: 1744439120054
+experiment_id: '938730222592725752'
+last_update_time: 1744439120054
+lifecycle_stage: active
+name: NTPC-Sarima-Model
