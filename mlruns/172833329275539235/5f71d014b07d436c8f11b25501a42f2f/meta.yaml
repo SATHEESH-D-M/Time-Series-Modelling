@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172833329275539235/5f71d014b07d436c8f11b25501a42f2f/artifacts
+end_time: 1744452302350
+entry_point_name: ''
+experiment_id: '172833329275539235'
+lifecycle_stage: active
+run_id: 5f71d014b07d436c8f11b25501a42f2f
+run_name: orderly-bass-254
+run_uuid: 5f71d014b07d436c8f11b25501a42f2f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744452293307
+status: 3
+tags: []
+user_id: SASWATA GHOSH

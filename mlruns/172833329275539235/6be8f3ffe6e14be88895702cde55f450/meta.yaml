@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172833329275539235/6be8f3ffe6e14be88895702cde55f450/artifacts
+end_time: 1744452085707
+entry_point_name: ''
+experiment_id: '172833329275539235'
+lifecycle_stage: active
+run_id: 6be8f3ffe6e14be88895702cde55f450
+run_name: abrasive-gnat-615
+run_uuid: 6be8f3ffe6e14be88895702cde55f450
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744451694370
+status: 3
+tags: []
+user_id: SASWATA GHOSH

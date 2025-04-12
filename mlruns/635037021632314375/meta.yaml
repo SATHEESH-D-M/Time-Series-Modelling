@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/635037021632314375
+creation_time: 1744445766114
+experiment_id: '635037021632314375'
+last_update_time: 1744445766114
+lifecycle_stage: active
+name: NTPC-rnn-Model

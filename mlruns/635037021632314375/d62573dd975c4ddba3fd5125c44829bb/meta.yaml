@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635037021632314375/d62573dd975c4ddba3fd5125c44829bb/artifacts
+end_time: 1744451695615
+entry_point_name: ''
+experiment_id: '635037021632314375'
+lifecycle_stage: active
+run_id: d62573dd975c4ddba3fd5125c44829bb
+run_name: agreeable-hawk-974
+run_uuid: d62573dd975c4ddba3fd5125c44829bb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744451692076
+status: 3
+tags: []
+user_id: satheeshdm

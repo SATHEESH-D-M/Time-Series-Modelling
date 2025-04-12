@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172833329275539235/2bd5f41f9d794a38ae4ddb146831a5a5/artifacts
+end_time: 1744449136922
+entry_point_name: ''
+experiment_id: '172833329275539235'
+lifecycle_stage: active
+run_id: 2bd5f41f9d794a38ae4ddb146831a5a5
+run_name: funny-lynx-251
+run_uuid: 2bd5f41f9d794a38ae4ddb146831a5a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744449040513
+status: 3
+tags: []
+user_id: SASWATA GHOSH

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635037021632314375/770225537931479da785a6032b8bd1d9/artifacts
+end_time: 1744448506399
+entry_point_name: ''
+experiment_id: '635037021632314375'
+lifecycle_stage: active
+run_id: 770225537931479da785a6032b8bd1d9
+run_name: classy-bug-704
+run_uuid: 770225537931479da785a6032b8bd1d9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744448213213
+status: 3
+tags: []
+user_id: satheeshdm

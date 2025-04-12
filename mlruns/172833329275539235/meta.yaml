@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/172833329275539235
+creation_time: 1744448575107
+experiment_id: '172833329275539235'
+last_update_time: 1744448575107
+lifecycle_stage: active
+name: NTPC-SVR-Model

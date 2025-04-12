@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/635037021632314375/8917a4866de84e728f325371df570b8e/artifacts
+end_time: 1744452328769
+entry_point_name: ''
+experiment_id: '635037021632314375'
+lifecycle_stage: active
+run_id: 8917a4866de84e728f325371df570b8e
+run_name: calm-crane-452
+run_uuid: 8917a4866de84e728f325371df570b8e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744451831146
+status: 3
+tags: []
+user_id: satheeshdm

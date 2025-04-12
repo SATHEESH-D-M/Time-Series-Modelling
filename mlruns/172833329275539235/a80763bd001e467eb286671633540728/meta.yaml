@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/172833329275539235/a80763bd001e467eb286671633540728/artifacts
+end_time: 1744451596763
+entry_point_name: ''
+experiment_id: '172833329275539235'
+lifecycle_stage: active
+run_id: a80763bd001e467eb286671633540728
+run_name: inquisitive-squid-48
+run_uuid: a80763bd001e467eb286671633540728
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1744451587846
+status: 3
+tags: []
+user_id: SASWATA GHOSH
